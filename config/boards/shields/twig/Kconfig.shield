@@ -1,0 +1,5 @@
+config SHIELD_TWIG_LEFT
+    def_bool $(sheild_list_contains,twig_left)
+
+config SHIELD_TWIG_RIGHT
+    def_bool $(sheild_list_contains,twig_right)
