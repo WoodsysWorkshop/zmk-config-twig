@@ -11,6 +11,5 @@ shield: [ "twig_left", "twig_right" ]
 ---
 include:
   - board: nice_nano
-    shield: twig_right
-  - board: nice_nano
-    shield: twig_left
+    shield: twig_right, twig_left
+
